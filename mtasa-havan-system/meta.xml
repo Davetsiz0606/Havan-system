@@ -1,0 +1,9 @@
+<meta>
+    <info author="Davetsiz" name="Havan system" version="0.1.0" type="misc"/>
+    <script src="s.lua" type="server"/>
+    <script src="c.lua" type="client"/>
+    <script src="lib.lua" type="client" cache="false" />
+    <file src="havanSes.mp3" />
+    <file src="obje/minigun_base.dff" />
+    <file src="obje/minigx.txd" />
+</meta>
